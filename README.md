@@ -8,9 +8,9 @@ This is a starter kit for building a todo app with sign in functionality using
 
 ## Screenshots
 
-<img src="./samples/screen-landing.png" width="200px" />
-<img src="./samples/screen-login.png" width="200px" />
-<img src="./samples/screen-app.png" width="200px" />
+| | | |
+| - | - | - |
+| <img src="./samples/screen-landing.png" /> | <img src="./samples/screen-login.png" /> | <img src="./samples/screen-app.png" /> |
 
 ## Other Examples
 
