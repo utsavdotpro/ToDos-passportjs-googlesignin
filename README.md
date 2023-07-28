@@ -1,8 +1,18 @@
-# todos-express-starter
+# ToDos - PassportJS for Google SignIn
+
+> Example project built to tryout Passport JS for Google SignIn
 
 This is a starter kit for building a todo app with sign in functionality using
 [Express](https://expressjs.com/), [Passport](https://www.passportjs.org/) and
 [SQLite](https://www.sqlite.org/).
+
+## Screenshots
+
+<img src="./samples/screen-landing.png" width="200px" />
+<img src="./samples/screen-login.png" width="200px" />
+<img src="./samples/screen-app.png" width="200px" />
+
+## Other Examples
 
 The following is a list of complete, working example apps that have been built
 using this kit as a starting point.
